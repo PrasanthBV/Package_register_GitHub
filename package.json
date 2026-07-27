@@ -1,0 +1,10 @@
+{
+  "name": "PrasanthBV/Docker_register_GitHub",
+  "version": "1.0.0",
+  "description": "Test app for GitHub Packages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
