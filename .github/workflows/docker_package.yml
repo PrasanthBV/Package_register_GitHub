@@ -2,9 +2,8 @@ name: Publish Docker Image to GHCR
 
 on:
   push:
-    branches: [main]
-    paths:
-      - "Dockerfile"
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
