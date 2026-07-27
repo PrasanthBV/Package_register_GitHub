@@ -1,5 +1,5 @@
 {
-  "name": "PrasanthBV/gh-packages-test",
+  "name": "@prasanthbv/gh-packages-test",
   "version": "1.0.0",
   "description": "Test app for GitHub Packages",
   "main": "index.js",
