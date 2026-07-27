@@ -2,7 +2,7 @@ name: Publish npm Package
 
 on:
   push:
-    branches: [main]
+    branches: [npm_pack]
     paths:
       - "package.json"
       - "index.js"
